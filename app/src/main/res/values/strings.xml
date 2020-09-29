@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">TrabajoAndroid</string>
+    <string name="Trabajo_Android">Trabajo de Android</string>
+    <string name="label_descripcion">Descripcion del pedido</string>
+    <string name="label_Especialidad">Especialidad o extra</string>
+    <string name="label_Tipo">Tipo de pago</string>
+    <string name="radio_button1">Efectivo</string>
+    <string name="radio_button2">Transferencia</string>
+    <string name="radio_button3">Por puntos</string>
+    <string name="cv1_Boton1siguiente">siguiente</string>
+    <string name="label_pedido">Ingrese el Pedido</string>
+    <string name="label_fecha">Fecha</string>
+    <string name="label_instruccion">Seleccione la hora del pedido disponible</string>
+    <string name="label_ConfirmacionRobot">Indique que no es usted un robot</string>
+    <string name="label_Valoracion">Dejanos tu valoracion, gracias</string>
 </resources>
